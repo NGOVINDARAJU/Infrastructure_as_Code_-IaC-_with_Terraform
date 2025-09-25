@@ -11,7 +11,7 @@ It demonstrates Infrastructure as Code (IaC) by managing container lifecycle wit
 1. **Initialize Terraform**
    ```bash
    terraform init
-## 2. Preview changes
+2. **Preview changes**
     ```bash
     terraform plan
 ## 3. Apply configuration (create container)
